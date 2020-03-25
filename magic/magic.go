@@ -2,7 +2,7 @@ package magic
 
 // Abracadabra returns a magic word.
 func Abracadabra() string {
-	return "Hello World!"
+	return "Wonderful Hello World!"
 }
 
 // Uncovered escpaes from the testing catcher.
